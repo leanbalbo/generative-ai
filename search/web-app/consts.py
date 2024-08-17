@@ -21,7 +21,7 @@ WIDGET_CONFIGS = [
     {
         "name": "Fiscalía Caja los Andes",
         "config_id": "e837295a-8c27-4fca-8e57-4dd85550d080",
-        "placeholder": "Que querés saber de Fiscalia?",
+        "placeholder": "Buscar aquí",
     },
     {
         "name": "Alphabet Earnings Reports (Unstructured)",
