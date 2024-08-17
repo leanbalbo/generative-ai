@@ -14,14 +14,14 @@
 
 """Vertex AI Search Demo Constant Definitions"""
 
-PROJECT_ID = "YOUR_PROJECT_ID"
-LOCATION = "global"
+PROJECT_ID = "gcplab-2023"
+LOCATION = "us"
 
 WIDGET_CONFIGS = [
     {
-        "name": "Contracts (Unstructured)",
-        "config_id": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
-        "placeholder": "What is the SLA?",
+        "name": "Fiscalía Caja los Andes",
+        "config_id": "e837295a-8c27-4fca-8e57-4dd85550d080",
+        "placeholder": "Que querés saber de Fiscalia?",
     },
     {
         "name": "Alphabet Earnings Reports (Unstructured)",
